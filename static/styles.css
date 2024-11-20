@@ -5,13 +5,41 @@ body, html {
 }
 
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: cursive;
 
     /* Image used  */
-    background-image: url("/static/background-image.jpg");
+    background-image: url("/static/Background.jpg");
 
     /* Center and scale the image */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+/* Header  */
+.header{
+    padding: 45px; 
+    text-align: center;
+    background: rgba(255, 255, 255, 0.4);
+    font-size: 25px;
+}
+
+/* Form layout */
+.form-container{
+    padding-top: 50px;
+    display:flex; 
+    justify-content: center;
+    align-items: center;
+    
+}
+
+/* Result layout */
+.result{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    margin:auto;
+    width: 700px;
 }

@@ -20,7 +20,7 @@ def main():
         if len(text) < 50:
             return "Please enter a text with at least 50 characters"
         # Generate the summary
-        summary = summarizer(text, max_length=1000, min_length=50, do_sample=False)
+        summary = summarizer(text, max_length=2000, min_length=50, do_sample=False)
         # Return the summary
         #return summary[0]['summary_text']
 
