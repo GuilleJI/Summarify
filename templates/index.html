@@ -12,8 +12,9 @@
     <p>Welcome! Please input your text here!</p>
 
     <form method="post">
-        <input name="text" type="text" placeholder="Enter your text here" value="{{ text }}">
-        <button>Submit</button>
+        <textarea name="text" rows="25" cols="100" type="text" placeholder="Enter your text here" value="{{ text }}"></textarea>
+        <br/><br/>
+        <input type="submit">
     </form>
 
     <!--  Display the summary if it exists  -->
