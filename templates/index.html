@@ -12,8 +12,15 @@
     <p>Welcome! Please input your text here!</p>
 
     <form method="post">
-        <input name="text" type="text" placeholder="Enter your text here">
+        <input name="text" type="text" placeholder="Enter your text here" value="{{ text }}">
+        <button>Submit</button>
     </form>
+
+    <!--  Display the summary if it exists  -->
+    {% if summary %}
+        <h2>Summary</h2>
+        <p>{{ summary }}</p>
+    {% endif %}
     
 </body>
 </html>

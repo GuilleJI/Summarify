@@ -22,5 +22,7 @@ def main():
         # Generate the summary
         summary = summarizer(text, max_length=250, min_length=50, do_sample=False)
         # Return the summary
-        return summary[0]['summary_text']
-    
+        #return summary[0]['summary_text']
+
+        # Render the index.html template with the text and the summary
+        return render_template('index.html',text = text, summary = summary[0]['summary_text'] )
