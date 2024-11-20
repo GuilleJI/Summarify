@@ -7,6 +7,9 @@ body, html {
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
+    /* Image used  */
+    background-image: url("/static/background-image.jpg");
+
     /* Center and scale the image */
     background-position: center;
     background-repeat: no-repeat;
