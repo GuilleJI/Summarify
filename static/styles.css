@@ -42,6 +42,29 @@ body{
 .textArea{
     background-color: black;
     color: white;
+    border-radius: 10px;
+}
+
+/* Button styling */
+input[type=submit]{
+    color: black;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: 1.5s;
+    
+}
+
+/* Button hover effect */
+input[type=submit]:hover {
+    background-color: orange;
+    color: white;
+    transition-duration: 1.5s ;
 }
 
 /* Result layout */
