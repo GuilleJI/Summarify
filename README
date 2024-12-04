@@ -1,7 +1,5 @@
-# Summarify
-
-Summarify is an AI-powered web application designed to generate concise summaries of long texts. This project leverages advanced natural language processing techniques to provide users with quick and accurate summaries, enhancing productivity and comprehension.
-
+Summarify
+Summarify is a web application designed to generate concise, meaningful summaries from large bodies of text or articles. It leverages advanced AI-driven natural language processing (NLP) techniques to provide users with actionable insights and save time by cutting through lengthy content.
 ## Features
 
 - **Text Summarization**: Automatically generate summaries from long texts.
