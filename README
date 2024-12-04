@@ -1,14 +1,15 @@
 Summarify
+
 Summarify is a web application designed to generate concise, meaningful summaries from large bodies of text or articles. It leverages advanced AI-driven natural language processing (NLP) techniques to provide users with actionable insights and save time by cutting through lengthy content.
-## Features
+
+Features
 
 - **Text Summarization**: Automatically generate summaries from long texts.
 - **User-Friendly Interface**: Simple and intuitive web interface for ease of use.
 - **Customizable Settings**: Adjust the length and detail of the summaries according to user preferences.
 
-## Usage
-
-1. Enter the text you want to summarize in the input field.
-2. Click the "AI Summary" button to generate the summary.
-3. Adjust the summary length using the provided settings if needed.
+ Tech Stack
+- Python 
+- Flask (web dev framework for Python)
+- AI/ML: Hugging Face Transformers
 
