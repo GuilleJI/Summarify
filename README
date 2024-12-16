@@ -1,20 +1,30 @@
-Summarify
+# **Summarify**
+**Summarify** is a web application designed to generate concise, meaningful summaries from large bodies of text or articles. By leveraging advanced AI-powered Natural Language Processing (NLP) techniques, it provides users with actionable insights, saving time by distilling essential information from lengthy content.
 
-Summarify is a web application designed to generate concise, meaningful summaries from large bodies of text or articles. It leverages advanced AI-driven natural language processing (NLP) techniques to provide users with actionable insights and save time by cutting through lengthy content.
+---
 
-Features
+## **Features**
+- **Text Summarization**: Automatically generates summaries from long-form text or articles.
+- **User-Friendly Interface**: Provides a clean, intuitive web interface for seamless interaction.
+- **Customizable Settings**: Enables users to adjust the length and detail of summaries based on preferences.
 
-- **Text Summarization**: Automatically generate summaries from long texts.
-- **User-Friendly Interface**: Simple and intuitive web interface for ease of use.
-- **Customizable Settings**: Adjust the length and detail of the summaries according to user preferences.
+---
 
- Tech Stack
-- Python 
-- Flask (web dev framework for Python)
-- AI/ML: Hugging Face Transformers
+## **Tech Stack**
+- **Programming Language**: Python
+- **Framework**: Flask (lightweight web development framework)
+- **AI/ML Tools**: Hugging Face Transformers
 
+---
 
-![Images](images/Summarify%20.png)
-![Images](images/Summarify%20copy%20paste%20text%20to%20text%20box.png)
-![images](images/Result.png)
+## **Screenshots**
+### Input and Output Examples:
+1. **Homepage**  
+   ![Homepage](images/Summarify.png)
+
+2. **Copy-Paste Text Box**  
+   ![Text Input Example](images/Summarify%20copy%20paste%20text%20to%20text%20box.png)
+
+3. **Summary Results**  
+   ![Summary Result](images/Result.png)
 
