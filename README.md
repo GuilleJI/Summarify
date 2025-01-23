@@ -26,7 +26,7 @@
 - **Pasting text to the textbox**:
 ![image](https://github.com/user-attachments/assets/6870de89-92d3-488e-8eb4-ad70289b818c)
 
-- **Results**: 
+- **AI generated summary result**: 
 ![image](https://github.com/user-attachments/assets/2e2c8216-c2c9-46a0-a2b5-7cd8072a725e)
 
 
