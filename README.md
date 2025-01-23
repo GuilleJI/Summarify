@@ -19,5 +19,15 @@
 ---
 
 ## **Screenshots**
-### Check Image folder
+
+- **Standard Page**:
+![image](https://github.com/user-attachments/assets/5c51974a-b7a5-4c91-a1f3-294470fd6e12)
+
+- **Pasting text to the textbox**:
+![image](https://github.com/user-attachments/assets/6870de89-92d3-488e-8eb4-ad70289b818c)
+
+- **Results**: 
+![image](https://github.com/user-attachments/assets/2e2c8216-c2c9-46a0-a2b5-7cd8072a725e)
+
+
 
